@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Mcs</Authors>
+    <Company>Microsoft</Company>
+    <Product>Base.Mdm</Product>
+    <Version>1.0.3</Version>
+    <PackageReleaseNotes>Change Msg from Interface to Class</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
