@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>AppsOnSF</Authors>
+    <Company>AppsOnSF</Company>
+    <Product>AppsOnSF.MsgContracts</Product>
+    <Version>1.0.0</Version>
+    <PackageReleaseNotes>Added SendMobileCodeCommand</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
